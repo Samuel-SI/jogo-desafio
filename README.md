@@ -42,3 +42,12 @@ python main.py
 1. **Clone este repositório:**
    ```bash
    git clone [https://github.com/Samuel-SI/jogo-desafio.git](https://github.com/Samuel-SI/jogo-desafio.git)
+
+2. **Acesse a pasta do projeto:**
+   cd jogo-desafio
+
+3. **Instale a dependência da Interface Gráfica:**
+    pip install customtkinter
+
+4. **Rode o projeto**
+   python main.py
