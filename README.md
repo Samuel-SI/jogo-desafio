@@ -25,29 +25,18 @@ Peguei a base de herança simples e apliquei os seguintes upgrades no projeto:
 
 Siga os passos abaixo para testar o jogo localmente:
 
-git clone [https://github.com/Samuel-SI/jogo-desafio.git](https://github.com/Samuel-SI/jogo-desafio.git)
-Acesse a pasta do projeto:
-
-Bash
-cd jogo-desafio
-Instale a dependência da Interface Gráfica:
-
-Bash
-pip install customtkinter
-Inicie a Batalha:
-
-Bash
-python main.py
-
 1. **Clone este repositório:**
    ```bash
    git clone [https://github.com/Samuel-SI/jogo-desafio.git](https://github.com/Samuel-SI/jogo-desafio.git)
 
 2. **Acesse a pasta do projeto:**
+   ```bash
    cd jogo-desafio
 
 3. **Instale a dependência da Interface Gráfica:**
+    ```bash
     pip install customtkinter
 
-4. **Rode o projeto**
+5. **Rode o projeto**
+   ```bash
    python main.py
